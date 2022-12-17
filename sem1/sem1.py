@@ -13,7 +13,7 @@
 
 # num_max = 0
 
-# пше
+# for i in range(5):
 #     n = int(input())
 #     if n > num_max:
 #         num_max = n
